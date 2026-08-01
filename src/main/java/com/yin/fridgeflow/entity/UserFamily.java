@@ -4,6 +4,9 @@ import com.baomidou.mybatisplus.annotation.*;
 import lombok.Data;
 import java.time.LocalDateTime;
 
+/**
+ * 用户家庭关联表
+ */
 @Data
 @TableName("user_family")//用户家庭关联表
 public class UserFamily {

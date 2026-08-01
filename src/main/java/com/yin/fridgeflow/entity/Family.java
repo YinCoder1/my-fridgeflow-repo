@@ -3,7 +3,9 @@ package com.yin.fridgeflow.entity;
 import com.baomidou.mybatisplus.annotation.*;
 import lombok.Data;
 import java.time.LocalDateTime;
-
+/**
+ * 家庭表实体类
+ */
 @Data
 @TableName("family")//表名
 public class Family {
