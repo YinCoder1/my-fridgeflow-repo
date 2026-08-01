@@ -31,7 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
 # 本地环境配置（敏感信息）
+application.yml
 application-local.yml
 application-local.properties
 application-dev.yml
